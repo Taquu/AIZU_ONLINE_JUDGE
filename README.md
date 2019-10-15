@@ -10,3 +10,4 @@
 |ITP1_4_C |Simple Calculator |
 |ITP1_4_D |Min, Max and Sum |
 |ITP1_5_A |Print a Rectangle |
+|ITP1_5_B |Print a Frame |
