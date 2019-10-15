@@ -11,3 +11,4 @@
 |ITP1_4_D |Min, Max and Sum |
 |ITP1_5_A |Print a Rectangle |
 |ITP1_5_B |Print a Frame |
+|ITP1_5_C |Print a Chessboard |
