@@ -20,4 +20,4 @@
 |ITP1_7_A |Grading |
 |ITP1_7_B |How Many Ways? |
 |ITP1_7_C |Spreadsheet |
-
+|ITP1_7_D |Matrix Multiplication |
