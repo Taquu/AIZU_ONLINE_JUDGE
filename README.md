@@ -12,3 +12,8 @@
 |ITP1_5_A |Print a Rectangle |
 |ITP1_5_B |Print a Frame |
 |ITP1_5_C |Print a Chessboard |
+|ITP1_5_D |Structured Programming |
+|ITP1_6_A |Reversing Numbers |
+|ITP1_6_B |Finding Missing Cards |
+|ITP1_6_C |Official House |
+|ITP1_6_D |Matrix Vector Maltiplication |
