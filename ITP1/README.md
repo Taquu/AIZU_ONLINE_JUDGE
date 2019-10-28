@@ -17,3 +17,7 @@
 |ITP1_6_B |Finding Missing Cards |
 |ITP1_6_C |Official House |
 |ITP1_6_D |Matrix Vector Maltiplication |
+|ITP1_7_A |Grading |
+|ITP1_7_B |How Many Ways? |
+|ITP1_7_C |Spreadsheet |
+
