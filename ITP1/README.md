@@ -1,4 +1,4 @@
-# AIZU_ONLINE_JUDGE解答例
+# AIZU_ONLINE_JUDGE ITP1 解答例
 | File Name | Problem |
 |:---:|:---|
 |ITP1_3_A |Print Many Hello World |
