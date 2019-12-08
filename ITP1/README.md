@@ -33,3 +33,7 @@
 |ITP1_8_B |Sum of Numbers |
 |ITP1_8_C |Counting Characters |
 |ITP1_8_D |Ring |
+|ITP1_9_A |Finding a Word |
+|ITP1_9_B |Shuffle |
+|ITP1_9_C |Card Game |
+|ITP1_9_D |Transformation |
