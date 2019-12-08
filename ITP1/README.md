@@ -31,3 +31,5 @@
 |ITP1_7_D |Matrix Multiplication |
 |ITP1_8_A |Toggling Cases |
 |ITP1_8_B |Sum of Numbers |
+|ITP1_8_C |Counting Characters |
+|ITP1_8_D |Ring |
