@@ -29,3 +29,5 @@
 |ITP1_7_B |How Many Ways? |
 |ITP1_7_C |Spreadsheet |
 |ITP1_7_D |Matrix Multiplication |
+|ITP1_8_A |Toggling Cases |
+|ITP1_8_B |Sum of Numbers |
