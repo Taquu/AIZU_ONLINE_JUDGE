@@ -1,6 +1,14 @@
 # AIZU_ONLINE_JUDGE ITP1 解答例
 | File Name | Problem |
 |:---:|:---|
+|ITP1_1_A |Hello World |
+|ITP1_1_B |X Cubic |
+|ITP1_1_C |Rectangle |
+|ITP1_1_D |Watch |
+|ITP1_2_A |Small, Large or Equal |
+|ITP1_2_B |Range |
+|ITP1_2_C |Sorting Three Numbers |
+|ITP1_2_D |Circle in a Rectangle |
 |ITP1_3_A |Print Many Hello World |
 |ITP1_3_B |Print Test Cases |
 |ITP1_3_C |Swapping Two Numbers |
